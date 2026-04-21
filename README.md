@@ -1,3 +1,7 @@
+> **This project is part of a Udacity course's final assement**
+>   
+> Course: *Multimodal AI Applications*
+
 # Overview
 
 This is an AI-powered content moderation system for customer service interactions at a fictional company called ACME Enterprise.
